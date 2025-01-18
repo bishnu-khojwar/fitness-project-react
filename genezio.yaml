@@ -5,7 +5,7 @@ frontend:
         build:
             - npm run build
         deploy:
-            - npm install
+            - npm start
     subdomain: fitness-exercise-app
 name: fitness-exercise-app
 region: us-east-1
